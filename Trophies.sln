@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trophies", "Trophies\Trophies.csproj", "{EA56CD3A-295F-46B9-8376-78ED61AA232E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrophiesTests", "TrophiesTests\TrophiesTests.csproj", "{1D6595EE-3316-4A52-84D2-42588A5A4418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA56CD3A-295F-46B9-8376-78ED61AA232E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA56CD3A-295F-46B9-8376-78ED61AA232E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA56CD3A-295F-46B9-8376-78ED61AA232E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA56CD3A-295F-46B9-8376-78ED61AA232E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D6595EE-3316-4A52-84D2-42588A5A4418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6595EE-3316-4A52-84D2-42588A5A4418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6595EE-3316-4A52-84D2-42588A5A4418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6595EE-3316-4A52-84D2-42588A5A4418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5FCBDE7-32DE-4D2A-BBAB-972EDF456D9C}
+	EndGlobalSection
+EndGlobal
